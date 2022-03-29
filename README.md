@@ -3,7 +3,7 @@ This is a small JavaFX application built using Apache PDFBox, maven, and NetBean
 For testing
 This is a mosquito
 
-My name is Dorayya
+My name is Dorayya Yegalapati
 
 This is a lion
 
